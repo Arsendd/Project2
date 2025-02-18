@@ -81,7 +81,7 @@ int main() {
 		comp(one, two);
 	} while (one != 0 || two != 0);
 	*/
-	
+	cout << "Hello world" << endl;
 	int const size = 6;
 	int arr[size] = {34, 5, 34, 64, 54, 27};
 	cout << largest(arr, size);
